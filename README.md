@@ -1,0 +1,47 @@
+# OPN Catalyst
+
+Empowering builders, fostering collaboration, and accelerating innovation within the OPN ecosystem.
+
+## Overview
+
+OPN Catalyst is an open-source community project created as part of the OPN Builders Program. The project aims to encourage collaboration, knowledge sharing, and community participation within the OPN ecosystem.
+
+By providing accessible documentation, educational resources, and opportunities for contribution, OPN Catalyst seeks to support both new and experienced builders while promoting long-term ecosystem growth.
+
+## Objectives
+
+- Support community learning and engagement.
+- Encourage open-source collaboration.
+- Provide accessible resources for builders.
+- Promote innovation within the OPN ecosystem.
+- Foster sustainable community growth.
+
+## Roadmap
+
+### Phase 1 – Foundation
+- Create public GitHub repository.
+- Establish project structure.
+- Publish initial documentation.
+- Define project goals and vision.
+
+### Phase 2 – Community Resources
+- Expand educational content.
+- Create contribution guidelines.
+- Improve onboarding resources.
+- Organize community documentation.
+
+### Phase 3 – Ecosystem Growth
+- Encourage community contributions.
+- Develop additional learning resources.
+- Gather feedback and improve documentation.
+- Strengthen collaboration across the ecosystem.
+
+### Phase 4 – Long-Term Vision
+- Build a comprehensive knowledge hub.
+- Support community-led initiatives.
+- Maintain and expand project resources.
+- Contribute to the growth of the OPN ecosystem.
+
+## License
+
+MIT License
